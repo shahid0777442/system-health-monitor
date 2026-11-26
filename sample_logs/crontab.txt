@@ -1,0 +1,1 @@
+*/30 * * * * "/home/ubuntu/system-health-monitor/health_check.sh" >> "/home/ubuntu/system-health-monitor/logs/cron.log" 2>&1 # system-health-monitor

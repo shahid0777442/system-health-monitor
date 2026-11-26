@@ -1,2 +1,10 @@
-2026-11-26 19:26:52 status=WARNING cpu=1% mem=5% alerts=Disk /opt/claude-code=94%
-2026-11-26 19:26:55 status=WARNING cpu=1% mem=5% alerts=Disk /=29% Disk /opt/claude-code=94% Disk /opt/env-runner=68%
+2026-11-26 18:55:03 status=HEALTHY cpu=0% mem=37% alerts=none
+2026-11-26 18:55:20 status=HEALTHY cpu=0% mem=37% alerts=none
+2026-11-26 18:55:38 status=WARNING cpu=0% mem=37% alerts=Disk /=10% Disk /sys/firmware/efi/efivars=3% Disk /boot=14% Disk /boot/efi=6%
+2026-11-26 18:56:33 status=HEALTHY cpu=0% mem=37% alerts=none
+2026-11-26 18:56:34 status=WARNING cpu=0% mem=37% alerts=Disk /=10% Disk /sys/firmware/efi/efivars=3% Disk /boot=14% Disk /boot/efi=6%
+2026-11-26 19:02:01 status=HEALTHY cpu=0% mem=37% alerts=none
+2026-11-26 19:03:01 status=HEALTHY cpu=0% mem=37% alerts=none
+2026-11-26 19:04:01 status=HEALTHY cpu=1% mem=37% alerts=none
+2026-11-26 19:05:07 status=HEALTHY cpu=0% mem=36% alerts=none
+2026-11-26 19:05:08 status=WARNING cpu=0% mem=36% alerts=Disk /=10% Disk /sys/firmware/efi/efivars=3% Disk /boot=14% Disk /boot/efi=6%

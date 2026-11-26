@@ -1,0 +1,33 @@
+================ SYSTEM HEALTH REPORT ================
+Date     : 2026-11-26 19:05:08
+Host     : ip-172-31-6-150
+Kernel   : 7.0.0-1018-aws
+Uptime   : 0d 1h 46m
+Load avg : 0.03 0.01 0.00 (1, 5, 15 min)
+
+--- CPU ---
+[OK]      CPU usage is 0% (limit 80%)
+
+--- MEMORY ---
+Total: 909 MB | Available: 574 MB
+[OK]      Memory usage is 36% (limit 80%)
+
+--- DISK ---
+/ : 21G available
+[WARNING] Disk / usage is 10% (limit 1%)
+/sys/firmware/efi/efivars : 120K available
+[WARNING] Disk /sys/firmware/efi/efivars usage is 3% (limit 1%)
+/boot : 706M available
+[WARNING] Disk /boot usage is 14% (limit 1%)
+/boot/efi : 99M available
+[WARNING] Disk /boot/efi usage is 6% (limit 1%)
+
+--- TOP 5 PROCESSES BY MEMORY ---
+    PID COMMAND         %CPU %MEM
+   2908 fwupd            0.1  5.2
+    660 snapd            0.0  4.4
+    184 multipathd       0.0  2.8
+    810 unattended-upgr  0.0  2.4
+   1015 amazon-ssm-agen  0.0  2.2
+
+OVERALL STATUS: WARNING (4 alert(s))
