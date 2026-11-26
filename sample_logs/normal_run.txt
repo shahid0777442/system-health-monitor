@@ -1,9 +1,9 @@
 ================ SYSTEM HEALTH REPORT ================
-Date     : 2026-11-26 19:05:07
+Date     : 2026-11-26 19:10:31
 Host     : ip-172-31-6-150
 Kernel   : 7.0.0-1018-aws
-Uptime   : 0d 1h 46m
-Load avg : 0.03 0.01 0.00 (1, 5, 15 min)
+Uptime   : 0d 1h 52m
+Load avg : 0.00 0.00 0.00 (1, 5, 15 min)
 
 --- CPU ---
 [OK]      CPU usage is 0% (limit 80%)
@@ -31,4 +31,4 @@ Total: 909 MB | Available: 574 MB
    1015 amazon-ssm-agen  0.0  2.2
 
 OVERALL STATUS: HEALTHY
-Report saved to: /home/ubuntu/system-health-monitor/reports/health_20261126_190507.txt
+Report saved to: /home/ubuntu/system-health-monitor/reports/health_20261126_191031.txt
